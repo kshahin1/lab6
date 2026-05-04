@@ -1,0 +1,23 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.table th {
+    background-color: darkblue;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+.table td {
+    padding: 12px;
+}
+.badge {
+    padding: 5px 12px;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.available {
+    background-color: lightgreen;
+}
